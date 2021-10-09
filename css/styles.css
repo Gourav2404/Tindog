@@ -382,15 +382,15 @@ h2{
       text-align: center;
     }
 
-      #title-bar{
-        text-align: center;
-      }
-  #testimonials{
-    text-align: center;
-  }
-  .testimonial-text{
-    font-size: 1rem;
-  }
+    #title-bar{
+      text-align: center;
+    }
+    #testimonials{
+      text-align: center;
+    }
+    .testimonial-text{
+      font-size: 1rem;
+    }
 
 }
 
